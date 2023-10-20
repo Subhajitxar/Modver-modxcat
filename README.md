@@ -20,7 +20,7 @@ Welcome to the Modified Apps Repository. This repository is dedicated to providi
 
 ## Support
 
-If you have questions, need assistance, or want to report any issues with the modified apps, please contact us at [your-email@example.com].
+If you have questions, need assistance, or want to report any issues with the modified apps, please contact us at [subhajitu51@gmail.com].
 
 ## Contributing
 
